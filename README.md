@@ -44,12 +44,6 @@ Talara Networks Website
 			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153237730-6269c8ac-125d-4185-8f87-e0c5aa7982b1.png">
 		</td>   
   </tr>
-  <tr>
-   <td>
-      <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153237730-6269c8ac-125d-4185-8f87-e0c5aa7982b1.png">
-		</td>   
-  </tr>
 </table>
 
 <table>
