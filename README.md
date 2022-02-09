@@ -47,12 +47,6 @@ Talara Networks Website
   <tr>
    <td>
       <br>
-			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153237741-6c53d866-59ad-4981-8766-9efd2c5d8ef5.png">
-		</td>   
-  </tr>
-  <tr>
-   <td>
-      <br>
 			<img width="1080" src="https://user-images.githubusercontent.com/98855318/153237730-6269c8ac-125d-4185-8f87-e0c5aa7982b1.png">
 		</td>   
   </tr>
@@ -86,6 +80,9 @@ Talara Networks Website
 		</td>
     <td>
 			<img width="618" src="https://user-images.githubusercontent.com/98855318/153237743-96c0553d-78ac-4467-8b9b-570806d45d43.png">
+		</td>
+		<td>
+			<img width="618" src="https://user-images.githubusercontent.com/98855318/153237741-6c53d866-59ad-4981-8766-9efd2c5d8ef5.png">
 		</td>
 	</tr>
 </table>
